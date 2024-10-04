@@ -7,4 +7,8 @@ rg_details = {
     name     = "pxe-rg1"
     location = "central india"
   }
+  rg1 = {
+    name     = "pxe-rg2"
+    location = "central india"
+  }
 }
